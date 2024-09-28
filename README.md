@@ -1,0 +1,1 @@
+A small toy that render headlines into the terminal, as if it was a movie-hacker screen (kind-of).
